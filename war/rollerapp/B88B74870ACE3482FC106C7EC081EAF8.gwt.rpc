@@ -1,0 +1,18 @@
+@FinalFields, false
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.IllegalArgumentException, true, true, false, false, java.lang.IllegalArgumentException/1755012560, 1755012560
+java.lang.Integer, true, true, false, false, java.lang.Integer/3438268394, 3438268394
+java.lang.Number, true, false, false, false, java.lang.Number/300033342, 300033342
+java.lang.NumberFormatException, true, true, false, false, java.lang.NumberFormatException/3305228476, 3305228476
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+ru.seniorjava.protei.kmb.client.StringService, false, false, false, false, _, 3443064221
+ru.seniorjava.protei.kmb.client.objects.Bearings, false, false, true, true, ru.seniorjava.protei.kmb.client.objects.Bearings/3190353670, 3190353670
+ru.seniorjava.protei.kmb.client.objects.Boot, false, false, true, true, ru.seniorjava.protei.kmb.client.objects.Boot/966366856, 966366856
+ru.seniorjava.protei.kmb.client.objects.Frame, false, false, true, true, ru.seniorjava.protei.kmb.client.objects.Frame/819981333, 819981333
+ru.seniorjava.protei.kmb.client.objects.RollerSkates, false, false, true, true, ru.seniorjava.protei.kmb.client.objects.RollerSkates/1108274176, 1108274176
+ru.seniorjava.protei.kmb.client.objects.Wheels, false, false, true, true, ru.seniorjava.protei.kmb.client.objects.Wheels/926139381, 926139381

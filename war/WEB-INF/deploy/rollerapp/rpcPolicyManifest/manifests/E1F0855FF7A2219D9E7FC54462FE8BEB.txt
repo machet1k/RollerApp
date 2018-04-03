@@ -1,0 +1,2 @@
+serviceClass: ru.seniorjava.protei.kmb.client.GreetingService
+path: F0D35DC53CB82CC706B85CB21FCE9648.gwt.rpc
